@@ -1,10 +1,9 @@
-[![MasterHead](https://media.licdn.com/dms/image/D563DAQFIJGy_J4EvYA/image-scale_191_1128/0/1666883668428?e=1675425600&v=beta&t=q5S0E-n5z-gDvzZPdOvK7oorksu-JESWk3DdbbvU2ss)](https://codegrills.in)
 <h1 align="center">Hi 👋, I'm dhanjee</h1>
 <h3 align="center">A passionate Full Stack developer from India ||</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pankaj-coder47&label=Profile%20views&color=0e75b6&style=flat" alt="pankaj-coder47" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pankaj-coder47" alt="pankaj-coder47" /></a> </p>
+
 
 - 🔭 I’m currently working on [nextGen](mergerman.webdhan.app)
 
@@ -23,10 +22,10 @@
 - 📫 How to reach me **dhanji.us@gmail.com**
 
 - ⚡ Fun fact **I once solved a complex coding bug by talking it out with my rubber duck—proving that sometimes, the best debugging partner isn't another programmer, but a quacking confidant! 🦆💻**
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pankaj-coder47" alt="pankaj-coder47" /></a> </p>
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/dhanji-sharma-50223a240/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/dhanji-sharma-50223a240/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/dhanji-sharma-50223a240/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/dhanji-sharma-50223a240/" height="30" width="40"  /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -40,9 +39,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pankaj-coder47&show_icons=true&locale=en" alt="pankaj-coder47" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pankaj-coder47&" alt="pankaj-coder47" /></p>
-
-
-
 
 
 
