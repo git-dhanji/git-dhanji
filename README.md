@@ -46,11 +46,10 @@ href="https://linkedin.com/in/https://www.linkedin.com/in/dhanji-sharma-50223a24
 
 <h3 align="center">Support:</h3>
 <p align="center"><a  href="https://www.buymeacoffee.com/dhanjee"> <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="auto" width="50%" alt="dhanjee" /></a></p>
-<div>
 
-</div>
-<p align="center"><img width='50%' src="https://github-readme-stats.vercel.app/api/top-langs?username=pankaj-coder47&show_icons=true&locale=en&layout=compact" alt="pankaj-coder47" /></p>
+<p align="center"><img width='90%' src="https://github-readme-stats.vercel.app/api/top-langs?username=pankaj-coder47&show_icons=true&locale=en&layout=compact" alt="pankaj-coder47" /></p>
 
-<p align="center" ><img width='50%' src="https://github-readme-stats.vercel.app/api?username=pankaj-coder47&show_icons=true&locale=en" alt="pankaj-coder47" /></p>
+<p align="center" ><img width='90%' src="https://github-readme-stats.vercel.app/api?username=pankaj-coder47&show_icons=true&locale=en" alt="pankaj-coder47" /></p>
 
-<p align="center"><img  width='50%' src="https://github-readme-streak-stats.herokuapp.com/?user=pankaj-coder47&" alt="pankaj-coder47" /></p>
+<p align="center"><img  width='90%' src="https://github-readme-streak-stats.herokuapp.com/?user=pankaj-coder47&" alt="pankaj-coder47" /></p>
+
