@@ -16,7 +16,7 @@
 - 📫 How to reach me **dhanji.us@gmail.com**
 
 - ⚡ Fun fact **I once solved a complex coding bug by talking it out with my rubber duck—proving that sometimes, the best debugging partner isn't another programmer, but a quacking confidant! 🦆💻**
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pankaj-coder47" alt="pankaj-coder47" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=git-dhanji" alt="git-dhanji" /></a> </p>
 
 ---
 
