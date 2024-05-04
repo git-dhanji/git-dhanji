@@ -1,19 +1,19 @@
-<h1 align="center">Hi 👋, I'm dhanjee</h1>
-<h3 align="center">A passionate Full Stack developer from India ||</h3>
+<h1 align="center">Hi 👋, I'm Dhanji Sharma  { Rude }</h1>
+<h3 align="center">A passionate Full Stack developer from India </h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pankaj-coder47&label=Profile%20views&color=0e75b6&style=flat" alt="pankaj-coder47" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=git-dhanji&label=Profile%20views&color=0e75b6&style=flat" alt="git-dhanji" /> </p>
 
-- 🔭 I’m currently working on [chaiXblog](https://github.com/pankaj-coder47/pankaj-coder47/edit/main/README.md)
+- 🔭 I’m currently working on [chaiXblog](https://github.com/git-dhanji/git-dhanji/chaiXblog)
 
-- 🌱 I’m currently learning **Next js || React js**
+- 🌱 I’m currently learning **Next js || Nodejs**
 
-- 👯 I’m looking to collaborate on [chaiXblog](https://github.com/pankaj-coder47/pankaj-coder47/edit/main/README.md)
+- 👯 I’m looking to collaborate on [chaiXblog](https://github.com/git-dhanji/chaiXblog)
 
-- 👨‍💻 All of my projects are available at portfolio: [webdhan.vercel.app](webdhan.vercel.app)
+- 👨‍💻 All of my projects are available at portfolio: [porfolio❤️](webdhan.vercel.app)
 
 - 💬 Ask me about **React js| Next js | Javascript | MongoDb | Express js | Node js**
 
-- 📫 How to reach me **dhanji.us@gmail.com**
+- 📫 How to reach me **dhanji.us@gmail.com || dhanji.us+(yourname)@gmail.com**
 
 - ⚡ Fun fact **I once solved a complex coding bug by talking it out with my rubber duck—proving that sometimes, the best debugging partner isn't another programmer, but a quacking confidant! 🦆💻**
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=git-dhanji" alt="git-dhanji" /></a> </p>
@@ -47,9 +47,9 @@ href="https://linkedin.com/in/https://www.linkedin.com/in/dhanji-sharma-50223a24
 <h3 align="center">Support:</h3>
 <p align="center"><a  href="https://www.buymeacoffee.com/dhanjee"> <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="auto" width="50%" alt="dhanjee" /></a></p>
 
-<p align="center"><img width='90%' src="https://github-readme-stats.vercel.app/api/top-langs?username=pankaj-coder47&show_icons=true&locale=en&layout=compact" alt="pankaj-coder47" /></p>
+<p align="center"><img width='90%' src="https://github-readme-stats.vercel.app/api/top-langs?username=git-dhanji&show_icons=true&locale=en&layout=compact" alt="git-dhanji" /></p>
 
-<p align="center" ><img width='90%' src="https://github-readme-stats.vercel.app/api?username=pankaj-coder47&show_icons=true&locale=en" alt="pankaj-coder47" /></p>
+<p align="center" ><img width='90%' src="https://github-readme-stats.vercel.app/api?username=git-dhanji&show_icons=true&locale=en" alt="git-dhanji" /></p>
 
-<p align="center"><img  width='90%' src="https://github-readme-streak-stats.herokuapp.com/?user=pankaj-coder47&" alt="pankaj-coder47" /></p>
+<p align="center"><img  width='90%' src="https://github-readme-streak-stats.herokuapp.com/?user=git-dhanji&" alt="git-dhanji" /></p>
 
