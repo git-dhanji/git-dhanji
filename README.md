@@ -3,8 +3,8 @@
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=git-dhanji&label=Profile%20views&color=0e75b6&style=flat" alt="git-dhanji" /> </p>
 
-- 🔭 I’m currently working on [chaiXblog](https://github.com/git-dhanji/chaiXblog)
-
+- 🔭 I’m currently working on [Shortly-UI code]([https://github.com/git-dhanji/urlshortner_frontend])
+                               [Shortly-Backend code]([https://github.com/git-dhanji/urlshortner_backend])
 - 🌱 I’m currently learning **Next js || Nodejs**
 
 - 👯 I’m looking to collaborate on [chaiXblog](https://github.com/git-dhanji/chaiXblog)
