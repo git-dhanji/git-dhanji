@@ -8,7 +8,7 @@
 
 - 👯 I’m looking to collaborate on  Shortly [Frontend](https://github.com/git-dhanji/urlshortner_frontend) 🔭 [Backend](https://github.com/git-dhanji/urlshortner_backend)
 
-- 👨‍💻 All of my projects are available at portfolio: [porfolio❤️](webdhan.vercel.app)
+- 👨‍💻 All of my projects are available at portfolio: [porfolio❤️](https://webdhan.vercel.app)
 
 - 💬 Ask me about **React js| Next js | Javascript | MongoDb | Express js | Node js**
 
